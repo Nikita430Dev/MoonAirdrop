@@ -1,0 +1,6 @@
+name: MoonAirdrop
+main: space.moonstudio.moonairdrop.main.SpigotPlugin
+version: 0.1
+commands:
+  airdrop:
+    usage: /airdrop

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MoonAirdrop">
+    <output-path>$USER_HOME$/Desktop/сервер/plugins</output-path>
+    <root id="archive" name="MoonAirdrop.jar">
+      <element id="module-output" name="MoonAirdrop" />
+      <element id="dir-copy" path="$PROJECT_DIR$/resources" />
+    </root>
+  </artifact>
+</component>
